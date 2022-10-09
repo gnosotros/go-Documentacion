@@ -25,6 +25,15 @@ cosas y ahorra mas trabajo al compilador.
 
 También se puede realizar la declaración de variables en grupos de forma declarativa e iterativa.
 
+### variables
+
+```html
+var <name> <type> = <value>
+or
+<name> <type> := <value>
+```
+
+
 ```go
 package main
 
